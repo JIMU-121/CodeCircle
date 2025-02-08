@@ -1,2 +1,2 @@
 # CodeCircle
- A quiz management app 
+ CodeCircle is a modern event management platform built with React and Supabase, designed for coding communities and tech clubs. It simplifies the organization of coding competitions, quizzes, and live coding sprints. With Supabase authentication and database services, CodeCircle ensures seamless user management, allowing admins to create and manage events, track participation, and generate certificates. Participants can easily register, receive real-time email updates, and compete in engaging challenges. With a focus on security and performance, CodeCircle provides a smooth, scalable, and interactive experience for coding enthusiasts.
